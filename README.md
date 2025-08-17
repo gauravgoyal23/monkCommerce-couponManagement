@@ -1,4 +1,3 @@
-# monkCommerce-couponManagement
 # E-Commerce Coupon Management System
 
 A comprehensive RESTful API for managing and applying different types of discount coupons for an e-commerce platform.
